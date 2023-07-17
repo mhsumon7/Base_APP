@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class CustomColor {
-  static const dPrimary = Colors.white;
+  static const dPrimary = Colors.black45;
   static const primary = Colors.white;
   static const lprimary = Colors.white;
   static const white = Colors.white;
@@ -14,8 +14,8 @@ class CustomColor {
     begin: Alignment.topLeft,
     end: Alignment.bottomRight,
     colors: [
-      Colors.white,
-      Colors.black,
+      Colors.blue,
+      Colors.red,
     ],
   );
 }
